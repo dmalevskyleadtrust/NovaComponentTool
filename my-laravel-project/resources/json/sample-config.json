@@ -1,0 +1,466 @@
+{
+    "Arizona":
+    {
+        "Tier Care Plan Only":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        }
+    },
+    "New Mexico":
+    {
+        "ACA - WellHealth + Legacy 200 - Tiercare":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200 Zurich",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "ACA - Security 7500 Standard + WellHealth + Legacy 200 - Tiercare":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Security 7500 Standard",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200 Zurich",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "ACA - Security 7500 Standard + WellHealth + Legacy 200":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Security 7500 Standard",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200 Zurich",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "ACA - WellHealth + Legacy 200":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200 Zurich",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "ACA - Tier Care + Legacy 200":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200 Zurich",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 200",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "ACA - Renaissance Classic Insured Dental":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "Renaissance Classic Insured Dental",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "ACA - Legacy 100":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "Legacy 100 Zurich",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Legacy 100",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "ACA - Tier Care":
+        {
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "Unified Plus - Plan 1000 + WellHealth + TierCare Dr Now":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A1000"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "Unified Plus - Plan 500 + WellHealth + TierCare Dr Now":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A500"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 300 + WellHealth + TierCare Dr Now":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A300"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 200 + WellHealth + TierCare Dr Now":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A200"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                },
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 1000 + WellHealth":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A1000"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "Unified Plus - Plan 500 + WellHealth":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A500"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 300 + WellHealth":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A300"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 200 + WellHealth":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A200"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "WellHealth Plus",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 1000 + Tier Care Plan - DrNow":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A1000"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect",
+                    "type": "UcaAddOn"
+                }
+            ]
+        },
+        "Unified Plus - Plan 500 + Tier Care Plan - DrNow":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A500"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 300 + Tier Care Plan - DrNow":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A300"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 200 + Tier Care Plan - DrNow":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A200"
+                }
+            ],
+            "AddOn":
+            [
+                {
+                    "type": "UcaAddOn",
+                    "plan_name": "Tier Care Plan - DrNow",
+                    "group_name": "CareConnect"
+                }
+            ]
+        },
+        "Unified Plus - Plan 1000":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A1000"
+                }
+            ],
+            "AddOn":
+            []
+        },
+        "Unified Plus - Plan 500":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A500"
+                }
+            ],
+            "AddOn":
+            []
+        },
+        "Unified Plus - Plan 300":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A300"
+                }
+            ],
+            "AddOn":
+            []
+        },
+        "Unified Plus - Plan 200":
+        {
+            "LimitedMedical":
+            [
+                {
+                    "group_name": "Unified Plus",
+                    "plan_name": "Plan A200"
+                }
+            ],
+            "AddOn":
+            []
+        }
+    }
+}

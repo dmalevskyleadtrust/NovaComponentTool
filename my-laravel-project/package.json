@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "build-drag-drop-ui": "cd nova-components/DragDropUi && npm run dev",
+        "build-drag-drop-ui-prod": "cd nova-components/DragDropUi && npm run prod",
+        "build-PostPayload": "cd nova-components/PostPayload && npm run dev",
+        "build-PostPayload-prod": "cd nova-components/PostPayload && npm run prod",
+        "build-postpayload": "cd nova-components/Postpayload && npm run dev",
+        "build-postpayload-prod": "cd nova-components/Postpayload && npm run prod",
+        "build-test-tool": "cd nova-components/TestTool && npm run dev",
+        "build-test-tool-prod": "cd nova-components/TestTool && npm run prod",
+        "build-test-tooltwo": "cd nova-components/TestTooltwo && npm run dev",
+        "build-test-tooltwo-prod": "cd nova-components/TestTooltwo && npm run prod"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.7.5",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "vuedraggable": "^2.24.3"
+    }
+}

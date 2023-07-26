@@ -1,0 +1,32 @@
+{
+    "name": "acme/test-tooltwo",
+    "description": "A Laravel Nova tool.",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acme\\TestTooltwo\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Acme\\TestTooltwo\\ToolServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "options": {
+        "symlink": true 
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
